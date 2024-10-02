@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-sioson-navbar/static/css/main.dfc87731.css",
+    "main.js": "/ws101-sioson-navbar/static/js/main.81f3d7f4.js",
+    "index.html": "/ws101-sioson-navbar/index.html",
+    "main.dfc87731.css.map": "/ws101-sioson-navbar/static/css/main.dfc87731.css.map",
+    "main.81f3d7f4.js.map": "/ws101-sioson-navbar/static/js/main.81f3d7f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc87731.css",
+    "static/js/main.81f3d7f4.js"
+  ]
+}
